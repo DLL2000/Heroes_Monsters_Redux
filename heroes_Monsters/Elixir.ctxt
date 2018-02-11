@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ heal\ cost
+comment0.target=Elixir(java.lang.String,\ int,\ int)
+comment1.params=h\ item
+comment1.target=void\ cost(Hero,\ int)
+comment2.params=
+comment2.target=int\ getCost()
+numComments=3

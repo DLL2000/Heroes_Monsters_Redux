@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=h\ m1\ m2\ m3\ m4\ item
+comment0.target=void\ cost(Hero,\ Monster,\ Monster,\ Monster,\ Monster,\ int)
+numComments=1
